@@ -1,0 +1,14 @@
+C:\Users\Shubham Gautam\source\repos\airbnbSearch\airbnbSearch\bin\Debug\netstandard2.0\airbnbSearch.deps.json
+C:\Users\Shubham Gautam\source\repos\airbnbSearch\airbnbSearch\bin\Debug\netstandard2.0\airbnbSearch.dll
+C:\Users\Shubham Gautam\source\repos\airbnbSearch\airbnbSearch\bin\Debug\netstandard2.0\ref\airbnbSearch.dll
+C:\Users\Shubham Gautam\source\repos\airbnbSearch\airbnbSearch\bin\Debug\netstandard2.0\airbnbSearch.pdb
+C:\Users\Shubham Gautam\source\repos\airbnbSearch\airbnbSearch\obj\Debug\netstandard2.0\airbnbSearch.csprojAssemblyReference.cache
+C:\Users\Shubham Gautam\source\repos\airbnbSearch\airbnbSearch\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Shubham Gautam\source\repos\airbnbSearch\airbnbSearch\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Shubham Gautam\source\repos\airbnbSearch\airbnbSearch\obj\Debug\netstandard2.0\Template\searchTemplate.xaml.g.cs
+C:\Users\Shubham Gautam\source\repos\airbnbSearch\airbnbSearch\obj\Debug\netstandard2.0\airbnbSearch.AssemblyInfoInputs.cache
+C:\Users\Shubham Gautam\source\repos\airbnbSearch\airbnbSearch\obj\Debug\netstandard2.0\airbnbSearch.AssemblyInfo.cs
+C:\Users\Shubham Gautam\source\repos\airbnbSearch\airbnbSearch\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Shubham Gautam\source\repos\airbnbSearch\airbnbSearch\obj\Debug\netstandard2.0\airbnbSearch.dll
+C:\Users\Shubham Gautam\source\repos\airbnbSearch\airbnbSearch\obj\Debug\netstandard2.0\ref\airbnbSearch.dll
+C:\Users\Shubham Gautam\source\repos\airbnbSearch\airbnbSearch\obj\Debug\netstandard2.0\airbnbSearch.pdb

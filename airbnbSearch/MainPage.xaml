@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             xmlns:templates="clr-namespace:airbnbSearch.Template"
+             x:Class="airbnbSearch.MainPage">
+
+    <ContentPage.Content>              
+        <ListView x:Name="listData" HasUnevenRows="True" SelectionMode="None" IsPullToRefreshEnabled="True" Refreshing="pull_refresh">
+            <ListView.Header>
+                <StackLayout Padding="15">
+                    <SearchBar Placeholder="Search..." TextChanged="SearchBar_TextChanged"/>
+                    <StackLayout  BackgroundColor="LightGray" Padding="15">
+                        <Label  x:Name="header" FontAttributes="Bold" FontSize="Medium"/>
+                    </StackLayout>
+                </StackLayout>
+            </ListView.Header>
+            <ListView.ItemTemplate>
+                <templates:searchTemplate/>
+            </ListView.ItemTemplate>
+        </ListView>
+    </ContentPage.Content>
+</ContentPage>
